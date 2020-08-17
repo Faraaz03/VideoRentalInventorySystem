@@ -19,5 +19,9 @@ public class Video {
     public String getName() {
         return "";
     }
+
+    public void checkOut() {
+
+    }
 }
 
