@@ -8,5 +8,12 @@
 package definitions;
 
 public class Video {
+    /*
+     * Creating Definition Classes: (Rules)
+     * 1.
+     */
+    private String videoName;
+    private boolean checkOut;
+    private int rating;
 }
 
